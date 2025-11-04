@@ -34,3 +34,8 @@ Demonstrar o uso de comandos básicos do Git e GitHub, incluindo commits, branch
 - `README.md` → explicação do trabalho.  
 - `.gitignore` → lista de arquivos ignorados pelo Git.  
 - `/prints` → imagens de comprovação das etapas do trabalho.
+git add README.md
+git commit -m "Adiciona README com explicações do trabalho"
+git push
+
+Este texto foi adicionado na branch-teste para demonstrar o uso de branches.
